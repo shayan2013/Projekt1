@@ -1,0 +1,81 @@
+==============================================================================
+=== Projektidee Wirtschtssimulation, v_1.0, 2016-09-12 ===
+==============================================================================
+
+//Startbildschirm 
+.Das Grundprinzip der Anwendung ist ein Spiel.
+.Die Spieler sind die Baumeister im antiken Rom.  
+.Die Anwendung besteht aus einem Startmenü in dem man sich an bzw. abmelden, registrieren, Tutorial und auf die Einstellungen zugreifen kann. 
+.Bei der Registrierung wird man auf ein externes Fenster verwiesen.  
+.Bei den Einstellungen "poppt" ein kleines Fenster auf in dem man die Schwierigkeitsstufe, Level usw. auswählen kann.
+.Wenn man sich anmeldet, fängt das Spiel je nach Level und Stand der letzten Abmeldung an.
+.Das Spielverlauf wird auf der Karte der römischen Zeit gezeigt.
+.Die Elemente stehen unter der Karte(Spielfeld) zur Verfügung.
+.Eine Pause-Taste steht übrigens zur Verfügung.
+
+//Levelselect 
+.Bei der Levelauswahl wird man die Möglichkeit haben, zwischen Level auswählen zu können. 
+.Die Level sind die Zeiten Vom Anfang des Imperiums bis zum Ende des römischen Reiches. Je höher der Level deste größer das Imperium.
+
+//Hauptteil & Interaktivität 
+.Sobald man ein Level ausgewählt hat fängt das Datum nach römischen Zeit an zu laufen und das Spiel beginnt auf der Karte.  
+.Es gibt :  
+ -vier Arten von Straßen (Heerstraßen, Provinzstraßen, Privatstraßen, Städtische Straßen)
+ -acht Bauelemente (Lehm, Kalkstein mit Mörtel,faustgroßen Kieseln, nußgroßen Kieseln, Kopfsteinpflaster, Steinplatten, Kies, Sand)
+ -vier Arten Arbeiter (Soldaten, Sklaven, Sträflinge, Sklaven der jeweiligen Grundbesitzer)
+.Das Spiel kann einzeln, zu zweit und zu viert gespielt werden und dann bekommt jeder Spieler individuel Aufgaben(Arbeiter und Bauelemente), die zufällig oder gewollt durch Teamglieder und kummert sich darum.
+.bei der Einzeln Version werden alle Änderungen auf einer Karte gemacht und dargestellt.
+.bei der Mehrspielerfunktion schafft eine Hauptkarte die Darstellung aller durchgeführten Änderungen durch Spieler jedoch besitzt jeder Spieler seine eingene Spielkarte um Änderungen durchzuführen. 
+.Die Interaktion der Spieler wird über das Internet ermöglicht.  
+.Man wählt eine Art der Straße aus dann die Bauelemente und die Arbeiter. Sollten alle benötigte Elemente bzw. Arbeiter zur Verfügung stehen wählt man zwei Pünkte auf der Karte die mit einander verbunden werden sollen.
+.Ausgeführt werden diese Aktionen per Tastendruck (soweit Tastatur vorhanden) oder per Touch Eingabe 
+.und dementsprechend vorhandene Interaktionsfelder. 
+.sollte der Spieler Tutorial verpasst haben kann er mit der Pause-Taste die Tutorial nachholen. 
+.Um Fehler so wie Auswahl der falschen Bauelemente für eine Straße zu vermeiden werden nach der Auswahl der Straßenart die unpassende Elemente unwählbar.
+ 
+.In der Spielanwendung wird man auf über Tasteninteraktion (Linksklick/Touch) auf ein bestimmtes Symbol Zugriff auf folgende Features haben:  
+ 	 
+ 	-Medalien 
+ 	-Freundesliste		 
+ 	-Character 					 
+ 	-Characterübersicht 
+ 	-Karte 
+ 	-Einstellungen 
+ 
+ 
+Jedes dieser Features verweist den Spieler auf kein neues Fenster, sondern öffnet ein Pop-up Fenster im Spiel! 
+
+
+
+//Ziel des Spieles
+.Römische Straßenbau spielte eine der größte Rolle dessen Imperiums. Durch die Straßen wurde Zivilation, Import und Export etc. ermöglicht.
+.Es sind vier wichtige Importquellen die durch Straßen mit Rom verbunden werden sollen :
+ -Agypten (Getreide): das wichtigste
+ -Algerien (Pferde)
+ -Eisen (Pikten)
+ -Germanien (Bernstein)
+.Es sind vier wichtige Feinde :
+ -Parther (der heutige Iran) : das gefährlichste
+ -Pikten (Briten)
+ -Germanen
+ -Berber (nord Afrika)
+
+.Der Spieler muss auf alle diesen Kriterien achten :
+ -Trifft er beim Bauen das Land eines Feindes, führt es zum Krieg und der Spieler wird ein Level zurückgesetzt.
+ -Fehlen dem Spieler Getreide, verliert er die Zivilation und dadurch weniger Arbeiter usw.
+ -Fehlen dem Pferde werden die Soldaten geschwäscht und Imperium Bedroht.
+ -Verwendet er viele Soldaten zum Bau der Straßen, wird das Imperium ebenfalls bedroht.
+ etc.
+.Der Spieler muss mit Geduld und Strategie spielen um das Imperium vergrößen zu können und das Spiel gewinnen.
+.Je nach Schwierigkeitsstufe werden die Feinde stärker, Arbeiter weniger usw.
+
+ //Endscreen 
+.Wird das Spiel über die Einstellungen beendet, so hat man weitere Navigationsmöglichkeiten. 
+.Man wird das Spiel von einem neuen Level aus neu starten können, man wird sich Leaderboards anschauen können, die Einstellungen ändern und das Spiel mit besseren Strategien endgültig beenden(bis zum 5. Jahrhundert durchhalten) können. 
+.Bei Neustart wird man auf das Levelselect Fenster verwiesen, bei Leaderboards wird ein (nicht externes!) Fenster geöffnet, welches eine Tabelle mit den Leaderboards zeigt, und die Einstellungen öffnen ein Pop-up Fenster. 
+
+
+
+.Jedes Popup Fenster wird die Möglichkeit bieten, es per Interaktion schließen zu können
+.Das Spiel soll optimiert mit Tastatur, als auch auf Touchscreens bedient werden können. 
+
