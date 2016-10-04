@@ -49,3 +49,21 @@
 304_04 Characterübersicht / Darstellung des Details des Charachters so wie EP. etc.
 304_05 Karte / Dartellunng der römischen Karte je nach Datum bzw. Level
 
+
+===================================================
+=== Microservices, 2016-10-04 ===
+===================================================
+
+
+== I - Spielfeld ==
+== II - Navigationsmenu ==
+== III - Log-In ==
+== IV - Registrierung ==
+== V - pop out-Darstellungen(Freunde, Medalien etc.)
+== VI - Pause ==
+== VII - Tutorials ==
+== VIII - Textfields ==
+== IX - Straßenbuttons ==
+== X - Arbeiterbuttons ==
+== XI - Bauelementbuttons ==
+
