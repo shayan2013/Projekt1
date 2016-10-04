@@ -67,7 +67,6 @@
 === Microservices, 2016-10-04 ===
 ===================================================
 
-
 == I - Spielfeld ==
 == II - Navigationsmenu ==
 == III - Log-In ==
@@ -79,4 +78,28 @@
 == IX - Straﬂenbuttons ==
 == X - Arbeiterbuttons ==
 == XI - Bauelementbuttons ==
+
+
+===============================================
+=== Ansichten, 2016-10-04 ===
+===============================================
+
+== Spielfeld ==
+I - Karte
+
+
+== Navigation ==
+III - Log-In
+IV - Registrierung
+V - Einstellung
+VII - Tutorials
+
+
+== Buttons ==
+VI - Pause
+IX - Straﬂenbuttons 
+X - Arbeiterbuttons 
+XI - Bauelementbuttons 
+
+
 
