@@ -84,7 +84,7 @@
 === Ansichten, 2016-10-04 ===
 ===============================================
 
-== Spielfeld ==
+== index ==
 I - Karte
 
 
@@ -106,11 +106,11 @@ XXXII - Texts
 XXXIII - Warnungen
 
 
-== Menu ==
+== index ==
 II - Navigationsmenu
 
 
-== Buttons ==
+== index ==
 VI - Pause
 IX - Straﬂenbuttons 
 X - Arbeiterbuttons 
