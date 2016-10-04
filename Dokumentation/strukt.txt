@@ -88,11 +88,26 @@
 I - Karte
 
 
-== Navigation ==
+== an_abmelden ==
 III - Log-In
 IV - Registrierung
-V - Einstellung
-VII - Tutorials
+
+
+== Einstellung ==
+XXI - Freunde
+XXII - Medalien
+XXIII - Charachter
+XXIV - Level
+
+
+== Tutorials ==
+XXXI - Videos
+XXXII - Texts
+XXXIII - Warnungen
+
+
+== Menu ==
+II - Navigationsmenu
 
 
 == Buttons ==
