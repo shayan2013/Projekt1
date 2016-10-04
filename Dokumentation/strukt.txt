@@ -1,0 +1,51 @@
+
+===========================================================
+=== Strukturelle Elemente, 2016-10-04 ===
+===========================================================
+
+== 01 Hyperlink ==
+01_01 Home / gehe zu index.html
+01_02 an-abmelden / Registierung bzw. An-Abmeldung
+01_03 Tutorials / gehe zu Tutorialseite
+01_04 Einstellung / zur Level bzw. Charachtereinstellung usw.
+
+
+== 02 Schaltflächen ==
+02_01 Spielfeld / anklickbares Bild
+02_02 Pause / zum Anhalten des Spiels
+02_03 Datum / Darstellung des römischen Datums
+02_04 Straßen / Heerstraßen, Provinzstarßen, Privatstraßen und Stätische Straßen
+02_05 Bauelemente / Lehm, Kalkstein, Kopsteinpflaster etc.
+02_06 Arbeiter / Soldaten, Sklaven, Sträflinge, Sklaven der jeweiligen Grundbesitzer
+
+
+== 102 input/text ==
+102_01 type=text / Eingabe des Namens für nicht registierende Spieler 
+102_02 type=text / Eingabe des Nutzernamens 
+
+== 103 input/password ==
+103_03 type=password / Eingabe des Passworts
+
+== 104 input/date ==
+104_04 type=date / Eingabe des Geburtsdatums
+
+== 105 input/submit ==
+105_01 submit / an-abmelden
+105_02 reset
+105_03 Registieren
+
+
+== 203 Tutrials/ Videos ==
+203_01 Hyperlink / links zu verschidenen Tutorials
+
+== 204 Textfield ==
+204_01 Auto Helper / Wird beim falschen Auswahl angezeit
+204_02 Tutorial(Paragraph) / Beschreibung des Spiels
+
+== 304 pop out-Schaltflächen ==
+304_01 Medalien / Darstellung der gesammelten Medalien
+304_02 Freundesliste / Darstellung der Freunde
+304_03 Character / Charachterwechsel
+304_04 Characterübersicht / Darstellung des Details des Charachters so wie EP. etc.
+304_05 Karte / Dartellunng der römischen Karte je nach Datum bzw. Level
+
