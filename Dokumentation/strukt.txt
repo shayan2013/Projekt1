@@ -14,9 +14,22 @@
 02_01 Spielfeld / anklickbares Bild
 02_02 Pause / zum Anhalten des Spiels
 02_03 Datum / Darstellung des römischen Datums
-02_04 Straßen / Heerstraßen, Provinzstarßen, Privatstraßen und Stätische Straßen
-02_05 Bauelemente / Lehm, Kalkstein, Kopsteinpflaster etc.
-02_06 Arbeiter / Soldaten, Sklaven, Sträflinge, Sklaven der jeweiligen Grundbesitzer
+02_04 Heerstraßen
+02_05 Provinzstarßen
+02_06 Privatstraßen 
+02_07 Stätische Straßen
+02_08 Lehm
+02_09 Kalkstein mit Mörtel
+02_10 faustgroßen Kieseln
+02_11 nußgroßen Kieseln
+02_12 Kopfsteinpflaster
+02_13 Steinplatten
+02_14 Kies
+02_15 Sand
+02_16 Soldaten
+02_17 Sklaven
+02_18 Sträflinge
+02_19 Sklaven der jeweiligen Grundbesitzer
 
 
 == 102 input/text ==
